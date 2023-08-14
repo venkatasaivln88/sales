@@ -1,0 +1,6 @@
+number1 = input ("Online Lotto: ")
+number2 = input ("\nIn Lotto: ")
+
+Lotto cash = float(number1) + float(number2)
+
+print(.format(number1,number2,Lotto cash))
